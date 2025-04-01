@@ -346,9 +346,8 @@ namespace GameAICourse
         {
             base.Awake();
 
-            StudentName = "Your Name"; // Replace with your name
+            StudentName = "Shaurya Dwivedi";
 
-            // Only the AI can control. No humans allowed!
             IsPlayer = false;
         }
 
